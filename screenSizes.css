@@ -1,0 +1,12 @@
+@media only screen and (max-width: 600px) {
+    body{
+        background-color: yellowgreen;
+    }
+}
+
+body{
+    background-color: lightblue;
+}
+/* I used h1, p, img, and a href to include all the necassary information
+and I used media only screen, where a max screen width of 600px would
+result in a yellow green background with blue for the rest. */
